@@ -1,0 +1,3 @@
+I am a self taught graphic designer, web designer and intermediate web developer on a path to become a full stack developer. I am extremely passionate about my craft and enjoy research and development surrounding the design and development Industry. I also have plans to study and master development around IoT (Internet of Things) and its integration in everyday business and home use.
+
+I am fluent in Wordpress development, HTML, CSS and Python Django framework. I have working knowledge of Javascript and PHP Laravel frameworks. I am currently working on perfecting my backend development skills to become a full stack developer as mentioned. I am also fluent in CorelDraw, Adobe Photoshop, Adobe Illustrator and Indesign.
